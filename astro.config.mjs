@@ -18,6 +18,7 @@ export default defineConfig({
 						{ label: 'Aurora Intro', slug: 'guides/intro'}, 
 						{ label: 'Layer Apps', slug: 'guides/layerapp' },
 						{ label: 'Devcontainers', slug: 'guides/devcontainers' },
+						{ label: 'KDE Plasma Customization', slug: guides/kde-themes' },
 					],
 				},
 				{
