@@ -15,6 +15,7 @@ export default defineConfig({
 					label: 'Guides',
 					items: [
 						// Each item here is one entry in the navigation menu.
+						{ label: 'Aurora Intro', slug: 'guides/intro'}, 
 						{ label: 'Layer Apps', slug: 'guides/layerapp' },
 						{ label: 'Devcontainers', slug: 'guides/devcontainers' },
 					],

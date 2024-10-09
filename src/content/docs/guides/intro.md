@@ -6,7 +6,7 @@ description: Aurora at a glance.
 
 A familiar KDE desktop for people who love Fedora Kinoite. Aurora is a maintenance-free, reliable and fast operating system for everyone, stable like a Chromebook. It combines the power of Fedora and the beauty of a KDE desktop in a single, reliable and sleek package.
 
-![Aurora](../assets/aurora.jpeg
+![Aurora](../../../assets/aurora.jpeg)
 
 - Developers, check out [Aurora-DX](https://docs.projectbluefin.io/bluefin-dx) for developer focused images! 
 
