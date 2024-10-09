@@ -1,5 +1,4 @@
 ---
-authors: @bsherman
 title: Booting to Rescue & Emergency Mode
 description: How to boot into Rescue & Emergency Mode on Aurora.
 ---
