@@ -17,6 +17,7 @@ export default defineConfig({
 						// Each item here is one entry in the navigation menu.
 						{ label: 'Layer Apps', slug: 'guides/layerapp' },
 						{ label: 'Devcontainers', slug: 'guides/devcontainers' },
+						{ label: 'Devcontainers', slug: 'guides/rescue-mode' },
 					],
 				},
 				{
