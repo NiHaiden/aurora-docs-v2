@@ -17,8 +17,8 @@ export default defineConfig({
 						// Each item here is one entry in the navigation menu.
 						{ label: 'Aurora Intro', slug: 'guides/intro'}, 
 						{ label: 'Layer Apps', slug: 'guides/layerapp' },
-						{ label: 'Devcontainers', slug: 'guides/devcontainers' },
-						{ label: 'KDE Plasma Customization', slug: guides/kde-themes' },
+						{ label: 'Devcontainers', slug: 'guides/devcontainers'},
+						{ label: 'KDE Plasma Customization', slug: 'guides/kde-themes' },
 					],
 				},
 				{
