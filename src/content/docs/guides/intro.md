@@ -52,7 +52,7 @@ management along with `libratbagd`
 Other than the visual differences, and codecs, there are some other key differences between Bluefin and Fedora Kinoite from a usage perspective:
 
 - Aurora takes a [greenfield approach](https://en.wikipedia.org/wiki/Greenfield_project) to Linux applications by defaulting to Flathub and `brew` by default
-- Aurora doesn't recommend using Toolbx - it instead focuses on [devcontainers](https://universal-blue.discourse.group/docs?topic=39) for declarative containerized development. You can use Podman or Docker to run and bootstrap your containers.
+- Aurora doesn't recommend using Toolbx - it instead focuses on [devcontainers](https://docs.getaurora.dev/guides/devcontainers/) for declarative containerized development. You can use Podman or Docker to run and bootstrap your containers.
 - Aurora *tries* to remove the need for the user to use `rpm-ostree` or `bootc` directly
 - Aurora focuses on automation of OS services and upgrades instead of user interaction. Upgrades are automatic and silent, so you never have to think about it again. 
 
