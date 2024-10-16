@@ -1,4 +1,7 @@
-# Installing Software on Aurora
+---
+title: Installing Software on Aurora
+description: How to install software on Aurora
+---
 
 ## Flatpak
 
