@@ -20,6 +20,7 @@ export default defineConfig({
 						{ label: 'Installing Software', slug: 'guides/software' },
 						{ label: 'Layering Packages', slug: 'guides/layerapp' },
 						{ label: 'KDE Plasma Customization', slug: 'guides/kde-themes' },
+						{ label: 'Developer Experience', slug: 'guides/developer' },
 						{ label: 'Devcontainers', slug: 'guides/devcontainers' },
 						{ label: 'Rescue mode', slug: 'guides/rescue-mode' },
 					],
