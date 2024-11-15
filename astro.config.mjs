@@ -16,6 +16,7 @@ export default defineConfig({
 					items: [
 						// Each item here is one entry in the navigation menu.
 						{ label: 'Introduction to Aurora', slug: 'guides/intro'}, 
+						{ label: 'Changing your start icon', slug: 'guides/start-icon'},
 						{ label: 'Basic Usage', slug: 'guides/basic-usage'}, 
 						{ label: 'Installing Software', slug: 'guides/software' },
 						{ label: 'Layering Packages', slug: 'guides/layerapp' },
